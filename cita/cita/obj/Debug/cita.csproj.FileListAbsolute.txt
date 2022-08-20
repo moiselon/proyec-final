@@ -1,0 +1,12 @@
+C:\Users\HP\source\repos\cita\cita\bin\Debug\cita.exe.config
+C:\Users\HP\source\repos\cita\cita\bin\Debug\cita.exe
+C:\Users\HP\source\repos\cita\cita\bin\Debug\cita.pdb
+C:\Users\HP\source\repos\cita\cita\obj\Debug\cita.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\cita\cita\obj\Debug\cita.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\cita\cita\obj\Debug\cita.Form1.resources
+C:\Users\HP\source\repos\cita\cita\obj\Debug\cita.Properties.Resources.resources
+C:\Users\HP\source\repos\cita\cita\obj\Debug\cita.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\cita\cita\obj\Debug\cita.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\cita\cita\obj\Debug\cita.exe
+C:\Users\HP\source\repos\cita\cita\obj\Debug\cita.pdb
+C:\Users\HP\source\repos\cita\cita\obj\Debug\cita.Form2.resources
